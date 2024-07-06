@@ -24,6 +24,7 @@ Technologies Used:
 Java Swing for the graphical user interface. JTable component for displaying the game board. Custom AbstractTableModel for the game board. Multithreading with the Thread class for game timing and animations. Serializable interface for saving and loading high scores.
 
 Main Menu and Game Screenshots:
+
 ![image](https://github.com/marichkaq/PacMan/assets/136113477/8a3e17ed-39c2-42ab-8a60-5e7ab2a2e6a7)
 
 ![image](https://github.com/marichkaq/PacMan/assets/136113477/5e716471-5cb3-4404-88db-8330211b1e53)
