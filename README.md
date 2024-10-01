@@ -21,7 +21,7 @@ Use the keyboard to navigate and control the player.
 
 Technologies Used:
 
-Java Swing for the graphical user interface. JTable component for displaying the game board. Custom AbstractTableModel for the game board. Multithreading with the Thread class for game timing and animations. Serializable interface for saving and loading high scores.
+Java Swing for the graphical user interface. Multithreading for game timing and animations. Serializable interface for saving and loading high scores.
 
 Main Menu and Game Screenshots:
 
